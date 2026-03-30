@@ -1,16 +1,19 @@
-## Hi there 👋
+Adrien Nivat
 
-<!--
-**Anvret/Anvret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant à l'EPFL (École Polytechnique Fédérale de Lausanne), intéressé par le développement logiciel, les algorithmes et la conception de systèmes efficaces.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+À propos de moi
+Intérêt pour l’algorithmique et les structures de données
+Attentif à la qualité du code, à la clarté et à la documentation
+Toujours en train d’apprendre et d’explorer de nouvelles technologies
+Technologies & outils
+Langages : Java, Scala
+Outils : Git, GitHub
+Concepts : programmation orientée objet, immuabilité, structures de données
+Projets
+Projet 1 — description courte
+Projet 2 — description courte
+Objectifs
+Approfondir mes compétences en développement logiciel
+Travailler sur des projets concrets
+Contribuer à des projets open-source
