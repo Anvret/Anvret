@@ -14,13 +14,13 @@ Student at EPFL (École Polytechnique Fédérale de Lausanne), interested in sof
 - Tools: Git, GitHub  
 - Concepts: object-oriented programming, immutability, data structures  
 
-## Projects
+## Projects (developed under another account)
 
 - Project 1 — Fire Boy and Water Girl (game)  
 - Project 2 — CFF app  
 - Project 3 — myColoc app  
 
-Thanks to my project partners: Stephan and Ludivine  
+Special thanks to my project partners: Stephan and Ludivine  
 
 ## Goals
 
