@@ -1,26 +1,29 @@
 # Adrien Nivat
 
-Étudiant à l’EPFL (École Polytechnique Fédérale de Lausanne), intéressé par le développement logiciel, les algorithmes et la conception de systèmes efficaces.
+Student at EPFL (École Polytechnique Fédérale de Lausanne), interested in software development, algorithms, and the design of efficient systems.
 
-## À propos de moi
+## About me
 
-- Intérêt pour l’algorithmique et les structures de données  
-- Attentif à la qualité du code, à la clarté et à la documentation  
-- Toujours en train d’apprendre et d’explorer de nouvelles technologies  
+- Interest in algorithms and data structures  
+- Focused on code quality, clarity, and documentation  
+- Always learning and exploring new technologies  
 
-## Technologies & outils
+## Technologies & tools
 
-- Langages : Java, Scala  
-- Outils : Git, GitHub  
-- Concepts : programmation orientée objet, immuabilité, structures de données  
+- Languages: Java, Python, C, C#, Scala  
+- Tools: Git, GitHub  
+- Concepts: object-oriented programming, immutability, data structures  
 
-## Projets
+## Projects
 
-- Projet 1 — description courte  
-- Projet 2 — description courte  
+- Project 1 — Fire Boy and Water Girl (game)  
+- Project 2 — CFF app  
+- Project 3 — myColoc app  
 
-## Objectifs
+Thanks to my project partners: Stephan and Ludivine  
 
-- Approfondir mes compétences en développement logiciel  
-- Travailler sur des projets concrets  
-- Contribuer à des projets open-source  
+## Goals
+
+- Improve my software development skills  
+- Work on concrete, real-world projects  
+- Contribute to open-source projects  
