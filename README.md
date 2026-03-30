@@ -1,4 +1,4 @@
-# Adrien Nivat
+# Adrien N
 
 Student at EPFL (École Polytechnique Fédérale de Lausanne), interested in software development, algorithms, and the design of efficient systems.
 
